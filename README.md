@@ -1,4 +1,3 @@
-# automatch-car-recommender
 # AutoMatch Car Recommender
 
 AutoMatch is a machine learning-based car recommendation system that helps users identify suitable vehicles based on preferences such as budget, fuel efficiency, features, and practical needs.
